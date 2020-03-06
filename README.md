@@ -1,4 +1,4 @@
-# Gatsby Starter Theme Vidyaa - i18n gatsby starter by @itenisz
+# Gatsby Theme Vidyaa Examples - i18n gatsby theme by @itenisz
 
 ## Warning
 
